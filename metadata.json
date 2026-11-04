@@ -1,0 +1,6 @@
+{
+  "name": "Smart Scholar Scheduling System",
+  "description": "Academic scheduling dashboard for managing room allocation, timetables, and automated conflict detection and resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
